@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.WebAPI\\MedicalAppointmentSystem.WebAPI.csproj": {}
+  },
+  "projects": {
+    "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Application\\MedicalAppointmentSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Application\\MedicalAppointmentSystem.Application.csproj",
+        "projectName": "MedicalAppointmentSystem.Application",
+        "projectPath": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Application\\MedicalAppointmentSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Core\\MedicalAppointmentSystem.Core.csproj": {
+                "projectPath": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Core\\MedicalAppointmentSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Core\\MedicalAppointmentSystem.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Core\\MedicalAppointmentSystem.Core.csproj",
+        "projectName": "MedicalAppointmentSystem.Core",
+        "projectPath": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Core\\MedicalAppointmentSystem.Core.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.WebAPI\\MedicalAppointmentSystem.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.WebAPI\\MedicalAppointmentSystem.WebAPI.csproj",
+        "projectName": "MedicalAppointmentSystem.WebAPI",
+        "projectPath": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.WebAPI\\MedicalAppointmentSystem.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Application\\MedicalAppointmentSystem.Application.csproj": {
+                "projectPath": "G:\\course\\web development 2\\Projects\\MedicalAppointmentSystem\\MedicalAppointmentSystem.Application\\MedicalAppointmentSystem.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
