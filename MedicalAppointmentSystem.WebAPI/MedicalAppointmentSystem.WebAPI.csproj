@@ -11,4 +11,9 @@
     <ProjectReference Include="..\MedicalAppointmentSystem.Application\MedicalAppointmentSystem.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="DTOs\" />
+  </ItemGroup>
+
 </Project>

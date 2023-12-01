@@ -1,0 +1,6 @@
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Infrastructure\obj\Debug\net8.0\MedicalAppointmentSystem.Infrastructure.csproj.AssemblyReference.cache
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Infrastructure\obj\Debug\net8.0\MedicalAppointmentSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Infrastructure\obj\Debug\net8.0\MedicalAppointmentSystem.Infrastructure.AssemblyInfoInputs.cache
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Infrastructure\obj\Debug\net8.0\MedicalAppointmentSystem.Infrastructure.AssemblyInfo.cs
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Infrastructure\obj\Debug\net8.0\MedicalAppointmentSystem.Infrastructure.csproj.CoreCompileInputs.cache
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Infrastructure\obj\Debug\net8.0\MedicalAppointmentSystem.Infrastructure.sourcelink.json

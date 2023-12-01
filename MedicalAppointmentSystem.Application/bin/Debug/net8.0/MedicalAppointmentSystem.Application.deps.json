@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MedicalAppointmentSystem.Application/1.0.0": {
+        "dependencies": {
+          "MedicalAppointmentSystem.Core": "1.0.0"
+        },
+        "runtime": {
+          "MedicalAppointmentSystem.Application.dll": {}
+        }
+      },
+      "MedicalAppointmentSystem.Core/1.0.0": {
+        "runtime": {
+          "MedicalAppointmentSystem.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedicalAppointmentSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MedicalAppointmentSystem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

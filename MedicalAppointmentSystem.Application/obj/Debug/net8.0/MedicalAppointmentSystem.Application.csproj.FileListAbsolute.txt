@@ -1,0 +1,16 @@
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\bin\Debug\net8.0\MedicalAppointmentSystem.Application.deps.json
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\bin\Debug\net8.0\MedicalAppointmentSystem.Application.dll
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\bin\Debug\net8.0\MedicalAppointmentSystem.Application.pdb
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\bin\Debug\net8.0\MedicalAppointmentSystem.Core.dll
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\bin\Debug\net8.0\MedicalAppointmentSystem.Core.pdb
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\MedicalAppointmentSystem.Application.csproj.AssemblyReference.cache
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\MedicalAppointmentSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\MedicalAppointmentSystem.Application.AssemblyInfoInputs.cache
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\MedicalAppointmentSystem.Application.AssemblyInfo.cs
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\MedicalAppointmentSystem.Application.csproj.CoreCompileInputs.cache
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\MedicalAppointmentSystem.Application.sourcelink.json
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\MedicalAppointmentSystem.Application.csproj.CopyComplete
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\MedicalAppointmentSystem.Application.dll
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\refint\MedicalAppointmentSystem.Application.dll
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\MedicalAppointmentSystem.Application.pdb
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Application\obj\Debug\net8.0\ref\MedicalAppointmentSystem.Application.dll
