@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using MedicalAppointmentSystem.Application.DTOs;
 using MedicalAppointmentSystem.Application.Services;
 using System;
@@ -7,6 +8,7 @@ using System.Threading.Tasks;
 
 [Route("api/patient")]
 [ApiController]
+[Authorize]
 public class PatientController : ControllerBase
 {
     private readonly IPatientAppService _patientAppService;

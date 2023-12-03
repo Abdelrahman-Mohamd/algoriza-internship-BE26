@@ -1,11 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using MedicalAppointmentSystem.Application.DTOs;
+﻿using MedicalAppointmentSystem.Application.DTOs;
 using MedicalAppointmentSystem.Application.Services;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using System;
 using System.Threading.Tasks;
 
+
+
 [Route("api/admin")]
 [ApiController]
+[Authorize]
 public class AdminController : ControllerBase
 {
     private readonly IAdminAppService _adminAppService;

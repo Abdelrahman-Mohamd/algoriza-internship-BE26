@@ -13,10 +13,17 @@
     <SourceRoot Include="C:\Users\Home\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.net.compilers\1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.compilers\1.0.0\build\Microsoft.Net.Compilers.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.0\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.0\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\8.0.0\build\net8.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\8.0.0\build\net8.0\Microsoft.EntityFrameworkCore.Design.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.codedom.providers.dotnetcompilerplatform\1.0.1\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('$(NuGetPackageRoot)microsoft.codedom.providers.dotnetcompilerplatform\1.0.1\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\Home\.nuget\packages\newtonsoft.json\6.0.4</PkgNewtonsoft_Json>
+    <PkgMicrosoft_Net_Compilers Condition=" '$(PkgMicrosoft_Net_Compilers)' == '' ">C:\Users\Home\.nuget\packages\microsoft.net.compilers\1.0.0</PkgMicrosoft_Net_Compilers>
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\Home\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.3</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgMicrosoft_CodeDom_Providers_DotNetCompilerPlatform Condition=" '$(PkgMicrosoft_CodeDom_Providers_DotNetCompilerPlatform)' == '' ">C:\Users\Home\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\1.0.1</PkgMicrosoft_CodeDom_Providers_DotNetCompilerPlatform>
+    <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\Home\.nuget\packages\entityframework\6.1.0</PkgEntityFramework>
+    <PkgFluent_Infrastructure Condition=" '$(PkgFluent_Infrastructure)' == '' ">C:\Users\Home\.nuget\packages\fluent.infrastructure\2.0.0-beta-01</PkgFluent_Infrastructure>
   </PropertyGroup>
 </Project>
