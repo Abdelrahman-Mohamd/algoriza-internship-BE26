@@ -144,10 +144,11 @@ namespace MedicalAppointmentSystem.Infrastructure.Repositories
                 var doctors = await query.Select(d => new DoctorModel
                 {
                     ImageLink = d.ImageLink,
-                    FullName = d.FirstName + " " + d.LastName,
+                    FirstName = d.FirstName,
+                    LastName = d.LastName,
                     Email = d.Email,
                     Phone = d.Phone,
-                    Specialization = d.Specialization.Name,
+                    Specialization = d.Specialization,
                     Gender = d.Gender,
                     DateOfBirth = d.DateOfBirth,
                     Feedbacks = d.Feedbacks.Select(f => new FeedbackModel
@@ -185,10 +186,11 @@ namespace MedicalAppointmentSystem.Infrastructure.Repositories
                 var doctorModel = new DoctorModel
                 {
                     ImageLink = doctor.ImageLink,
-                    FullName = doctor.FirstName + " " + doctor.LastName,
+                    FirstName = doctor.FirstName,
+                    LastName = doctor.LastName,
                     Email = doctor.Email,
                     Phone = doctor.Phone,
-                    Specialization = doctor.Specialization.Name,
+                    Specialization = doctor.Specialization,
                     Gender = doctor.Gender,
                     DateOfBirth = doctor.DateOfBirth,
                     Feedbacks = doctor.Feedbacks.Select(f => new FeedbackModel

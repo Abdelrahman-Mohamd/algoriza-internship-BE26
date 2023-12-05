@@ -1,6 +1,8 @@
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\bin\Debug\net8.0\MedicalAppointmentSystem.Core.deps.json
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\bin\Debug\net8.0\MedicalAppointmentSystem.Core.runtimeconfig.json
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\bin\Debug\net8.0\MedicalAppointmentSystem.Core.dll
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\bin\Debug\net8.0\MedicalAppointmentSystem.Core.pdb
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\obj\Debug\net8.0\MedicalAppointmentSystem.Core.csproj.AssemblyReference.cache
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\obj\Debug\net8.0\MedicalAppointmentSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\obj\Debug\net8.0\MedicalAppointmentSystem.Core.AssemblyInfoInputs.cache
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\obj\Debug\net8.0\MedicalAppointmentSystem.Core.AssemblyInfo.cs
@@ -9,4 +11,5 @@ G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointment
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\obj\Debug\net8.0\MedicalAppointmentSystem.Core.dll
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\obj\Debug\net8.0\refint\MedicalAppointmentSystem.Core.dll
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\obj\Debug\net8.0\MedicalAppointmentSystem.Core.pdb
+G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\obj\Debug\net8.0\MedicalAppointmentSystem.Core.genruntimeconfig.cache
 G:\course\web development 2\Projects\MedicalAppointmentSystem\MedicalAppointmentSystem.Core\obj\Debug\net8.0\ref\MedicalAppointmentSystem.Core.dll

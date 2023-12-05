@@ -2,7 +2,6 @@
 using MedicalAppointmentSystem.Core.Entities;
 using MedicalAppointmentSystem.Core.Interfaces;
 using MedicalAppointmentSystem.Infrastructure.Data;
-using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

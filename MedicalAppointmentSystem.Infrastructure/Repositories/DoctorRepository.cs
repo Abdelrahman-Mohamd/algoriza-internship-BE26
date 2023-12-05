@@ -91,7 +91,7 @@ namespace MedicalAppointmentSystem.Infrastructure.Repositories
                     Day = a.AppointmentDay,
                     Time = a.AppointmentDate,
                     Price = a.Price,
-                    DiscountCode = a.DiscountCode?.Code,
+                    DiscountCode = a.DiscountCode.Code,
                     FinalPrice = a.FinalPrice,
                     Status = a.Status,
                 }).ToList();
